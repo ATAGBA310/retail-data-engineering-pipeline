@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<Products>
+  <Product>
+    <product_id>PRD0181</product_id>
+    <product_name>Tournevis 561</product_name>
+    <product_price>318.21</product_price>
+    <price_date>2026-07-10</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0182</product_id>
+    <product_name>Tournevis 412</product_name>
+    <product_price>200.1</product_price>
+    <price_date>2026-07-02</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0183</product_id>
+    <product_name>Peinture 881</product_name>
+    <product_price>74.71</product_price>
+    <price_date>2026-07-07</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0184</product_id>
+    <product_name>Peinture 260</product_name>
+    <product_price>85.85</product_price>
+    <price_date>2026-07-18</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0185</product_id>
+    <product_name>Marteau 102</product_name>
+    <product_price>144.46</product_price>
+    <price_date>2026-07-23</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0186</product_id>
+    <product_name>Scie 398</product_name>
+    <product_price>13.84</product_price>
+    <price_date>2026-07-10</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0187</product_id>
+    <product_name>Scie 172</product_name>
+    <product_price>241.37</product_price>
+    <price_date>2026-07-09</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0188</product_id>
+    <product_name>Ampoule 777</product_name>
+    <product_price>281.86</product_price>
+    <price_date>2026-07-07</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0189</product_id>
+    <product_name>Peinture 657</product_name>
+    <product_price>80.62</product_price>
+    <price_date>2026-07-05</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0190</product_id>
+    <product_name>Marteau 173</product_name>
+    <product_price>23.22</product_price>
+    <price_date>2026-07-26</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0191</product_id>
+    <product_name>Ampoule 866</product_name>
+    <product_price>288.92</product_price>
+    <price_date>2026-07-10</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0192</product_id>
+    <product_name>Peinture 579</product_name>
+    <product_price>241.82</product_price>
+    <price_date>2026-07-23</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0193</product_id>
+    <product_name>Planche 612</product_name>
+    <product_price>190.14</product_price>
+    <price_date>2026-07-15</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0194</product_id>
+    <product_name>Ampoule 140</product_name>
+    <product_price>311.57</product_price>
+    <price_date>2026-07-24</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0195</product_id>
+    <product_name>Ampoule 356</product_name>
+    <product_price>11.49</product_price>
+    <price_date>2026-07-08</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0196</product_id>
+    <product_name>Ampoule 121</product_name>
+    <product_price>349.85</product_price>
+    <price_date>2026-07-22</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0197</product_id>
+    <product_name>Ampoule 141</product_name>
+    <product_price>267.68</product_price>
+    <price_date>2026-07-06</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0198</product_id>
+    <product_name>Pince 767</product_name>
+    <product_price>156.17</product_price>
+    <price_date>2026-07-09</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0199</product_id>
+    <product_name>Ampoule 546</product_name>
+    <product_price>223.09</product_price>
+    <price_date>2026-07-16</price_date>
+  </Product>
+  <Product>
+    <product_id>PRD0200</product_id>
+    <product_name>Scie 456</product_name>
+    <product_price>144.4</product_price>
+    <price_date>2026-07-11</price_date>
+  </Product>
+</Products>

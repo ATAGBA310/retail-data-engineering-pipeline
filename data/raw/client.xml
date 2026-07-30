@@ -1,0 +1,3483 @@
+<?xml version="1.0" ?>
+<Clients>
+  <Client>
+    <client_id>CLI0001</client_id>
+    <name>Julie Durand</name>
+    <age>81</age>
+    <sexe>M</sexe>
+    <opening_date>2023-03-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0002</client_id>
+    <name>Laura Bernard</name>
+    <age>58</age>
+    <sexe>M</sexe>
+    <opening_date>2022-10-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0003</client_id>
+    <name>Thomas Moreau</name>
+    <age>18</age>
+    <sexe>M</sexe>
+    <opening_date>2025-03-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0004</client_id>
+    <name>Sophie Moreau</name>
+    <age>64</age>
+    <sexe>M</sexe>
+    <opening_date>2025-08-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0005</client_id>
+    <name>Jean Petit</name>
+    <age>52</age>
+    <sexe>F</sexe>
+    <opening_date>2021-06-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0006</client_id>
+    <name>Laura Bernard</name>
+    <age>21</age>
+    <sexe>F</sexe>
+    <opening_date>2022-09-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0007</client_id>
+    <name>Nicolas Martin</name>
+    <age>70</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0008</client_id>
+    <name>Laura Bernard</name>
+    <age>37</age>
+    <sexe>M</sexe>
+    <opening_date>2025-08-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0009</client_id>
+    <name>Thomas Dubois</name>
+    <age>78</age>
+    <sexe>F</sexe>
+    <opening_date>2022-09-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0010</client_id>
+    <name>Thomas Petit</name>
+    <age>83</age>
+    <sexe>M</sexe>
+    <opening_date>2021-07-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0011</client_id>
+    <name>Thomas Richard</name>
+    <age>82</age>
+    <sexe>F</sexe>
+    <opening_date>2022-12-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0012</client_id>
+    <name>Pierre Laurent</name>
+    <age>80</age>
+    <sexe>F</sexe>
+    <opening_date>2021-08-31</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0013</client_id>
+    <name>Julie Richard</name>
+    <age>66</age>
+    <sexe>F</sexe>
+    <opening_date>2025-02-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0014</client_id>
+    <name>Sophie Laurent</name>
+    <age>67</age>
+    <sexe>M</sexe>
+    <opening_date>2022-08-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0015</client_id>
+    <name>Julie Dubois</name>
+    <age>66</age>
+    <sexe>M</sexe>
+    <opening_date>2024-04-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0016</client_id>
+    <name>Laura Martin</name>
+    <age>34</age>
+    <sexe>M</sexe>
+    <opening_date>2025-08-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0017</client_id>
+    <name>Marie Dubois</name>
+    <age>30</age>
+    <sexe>F</sexe>
+    <opening_date>2025-11-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0018</client_id>
+    <name>Luc Durand</name>
+    <age>37</age>
+    <sexe>M</sexe>
+    <opening_date>2020-11-02</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0019</client_id>
+    <name>Julie Laurent</name>
+    <age>68</age>
+    <sexe>F</sexe>
+    <opening_date>2020-11-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0020</client_id>
+    <name>Julie Dubois</name>
+    <age>22</age>
+    <sexe>F</sexe>
+    <opening_date>2020-10-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0021</client_id>
+    <name>Sophie Bernard</name>
+    <age>73</age>
+    <sexe>F</sexe>
+    <opening_date>2021-02-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0022</client_id>
+    <name>Laura Thomas</name>
+    <age>56</age>
+    <sexe>M</sexe>
+    <opening_date>2020-04-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0023</client_id>
+    <name>Jean Robert</name>
+    <age>63</age>
+    <sexe>F</sexe>
+    <opening_date>2024-03-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0024</client_id>
+    <name>Sophie Moreau</name>
+    <age>70</age>
+    <sexe>M</sexe>
+    <opening_date>2022-01-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0025</client_id>
+    <name>Marie Laurent</name>
+    <age>66</age>
+    <sexe>M</sexe>
+    <opening_date>2022-09-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0026</client_id>
+    <name>Sophie Dubois</name>
+    <age>50</age>
+    <sexe>M</sexe>
+    <opening_date>2025-02-25</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0027</client_id>
+    <name>Laura Robert</name>
+    <age>38</age>
+    <sexe>M</sexe>
+    <opening_date>2020-10-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0028</client_id>
+    <name>Emma Robert</name>
+    <age>72</age>
+    <sexe>F</sexe>
+    <opening_date>2022-10-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0029</client_id>
+    <name>Sophie Durand</name>
+    <age>79</age>
+    <sexe>F</sexe>
+    <opening_date>2021-03-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0030</client_id>
+    <name>Emma Richard</name>
+    <age>55</age>
+    <sexe>F</sexe>
+    <opening_date>2023-04-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0031</client_id>
+    <name>Pierre Martin</name>
+    <age>24</age>
+    <sexe>F</sexe>
+    <opening_date>2025-07-27</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0032</client_id>
+    <name>Emma Richard</name>
+    <age>46</age>
+    <sexe>M</sexe>
+    <opening_date>2022-02-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0033</client_id>
+    <name>Luc Bernard</name>
+    <age>23</age>
+    <sexe>F</sexe>
+    <opening_date>2023-06-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0034</client_id>
+    <name>Emma Richard</name>
+    <age>34</age>
+    <sexe>M</sexe>
+    <opening_date>2021-01-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0035</client_id>
+    <name>Thomas Thomas</name>
+    <age>43</age>
+    <sexe>F</sexe>
+    <opening_date>2021-06-25</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0036</client_id>
+    <name>Nicolas Moreau</name>
+    <age>52</age>
+    <sexe>F</sexe>
+    <opening_date>2021-11-04</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0037</client_id>
+    <name>Pierre Richard</name>
+    <age>32</age>
+    <sexe>F</sexe>
+    <opening_date>2025-04-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0038</client_id>
+    <name>Sophie Durand</name>
+    <age>64</age>
+    <sexe>M</sexe>
+    <opening_date>2021-01-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0039</client_id>
+    <name>Pierre Moreau</name>
+    <age>33</age>
+    <sexe>M</sexe>
+    <opening_date>2025-02-05</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0040</client_id>
+    <name>Emma Durand</name>
+    <age>65</age>
+    <sexe>F</sexe>
+    <opening_date>2021-03-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0041</client_id>
+    <name>Jean Laurent</name>
+    <age>59</age>
+    <sexe>F</sexe>
+    <opening_date>2022-06-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0042</client_id>
+    <name>Laura Robert</name>
+    <age>70</age>
+    <sexe>M</sexe>
+    <opening_date>2021-04-22</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0043</client_id>
+    <name>Jean Robert</name>
+    <age>81</age>
+    <sexe>M</sexe>
+    <opening_date>2021-04-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0044</client_id>
+    <name>Nicolas Thomas</name>
+    <age>67</age>
+    <sexe>M</sexe>
+    <opening_date>2025-02-01</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0045</client_id>
+    <name>Emma Thomas</name>
+    <age>71</age>
+    <sexe>F</sexe>
+    <opening_date>2021-02-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0046</client_id>
+    <name>Pierre Martin</name>
+    <age>65</age>
+    <sexe>F</sexe>
+    <opening_date>2022-06-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0047</client_id>
+    <name>Sophie Richard</name>
+    <age>30</age>
+    <sexe>F</sexe>
+    <opening_date>2024-02-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0048</client_id>
+    <name>Jean Durand</name>
+    <age>53</age>
+    <sexe>F</sexe>
+    <opening_date>2022-02-16</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0049</client_id>
+    <name>Marie Petit</name>
+    <age>20</age>
+    <sexe>F</sexe>
+    <opening_date>2020-07-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0050</client_id>
+    <name>Luc Laurent</name>
+    <age>44</age>
+    <sexe>M</sexe>
+    <opening_date>2020-10-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0051</client_id>
+    <name>Emma Petit</name>
+    <age>47</age>
+    <sexe>M</sexe>
+    <opening_date>2023-09-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0052</client_id>
+    <name>Pierre Thomas</name>
+    <age>34</age>
+    <sexe>M</sexe>
+    <opening_date>2022-10-23</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0053</client_id>
+    <name>Jean Thomas</name>
+    <age>19</age>
+    <sexe>M</sexe>
+    <opening_date>2024-01-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0054</client_id>
+    <name>Jean Thomas</name>
+    <age>51</age>
+    <sexe>F</sexe>
+    <opening_date>2020-08-02</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0055</client_id>
+    <name>Nicolas Bernard</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2025-05-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0056</client_id>
+    <name>Nicolas Laurent</name>
+    <age>31</age>
+    <sexe>F</sexe>
+    <opening_date>2025-01-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0057</client_id>
+    <name>Emma Martin</name>
+    <age>84</age>
+    <sexe>M</sexe>
+    <opening_date>2023-05-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0058</client_id>
+    <name>Jean Dubois</name>
+    <age>69</age>
+    <sexe>M</sexe>
+    <opening_date>2024-10-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0059</client_id>
+    <name>Laura Bernard</name>
+    <age>28</age>
+    <sexe>F</sexe>
+    <opening_date>2023-08-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0060</client_id>
+    <name>Marie Thomas</name>
+    <age>53</age>
+    <sexe>M</sexe>
+    <opening_date>2023-08-24</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0061</client_id>
+    <name>Laura Moreau</name>
+    <age>73</age>
+    <sexe>F</sexe>
+    <opening_date>2021-02-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0062</client_id>
+    <name>Thomas Dubois</name>
+    <age>47</age>
+    <sexe>M</sexe>
+    <opening_date>2024-08-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0063</client_id>
+    <name>Thomas Durand</name>
+    <age>30</age>
+    <sexe>F</sexe>
+    <opening_date>2023-07-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0064</client_id>
+    <name>Pierre Richard</name>
+    <age>37</age>
+    <sexe>F</sexe>
+    <opening_date>2025-04-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0065</client_id>
+    <name>Marie Bernard</name>
+    <age>73</age>
+    <sexe>M</sexe>
+    <opening_date>2021-01-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0066</client_id>
+    <name>Nicolas Martin</name>
+    <age>60</age>
+    <sexe>M</sexe>
+    <opening_date>2021-05-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0067</client_id>
+    <name>Thomas Martin</name>
+    <age>54</age>
+    <sexe>F</sexe>
+    <opening_date>2023-07-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0068</client_id>
+    <name>Emma Moreau</name>
+    <age>45</age>
+    <sexe>M</sexe>
+    <opening_date>2021-09-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0069</client_id>
+    <name>Sophie Bernard</name>
+    <age>62</age>
+    <sexe>F</sexe>
+    <opening_date>2024-02-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0070</client_id>
+    <name>Emma Petit</name>
+    <age>72</age>
+    <sexe>F</sexe>
+    <opening_date>2020-04-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0071</client_id>
+    <name>Jean Thomas</name>
+    <age>52</age>
+    <sexe>F</sexe>
+    <opening_date>2023-06-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0072</client_id>
+    <name>Jean Thomas</name>
+    <age>36</age>
+    <sexe>F</sexe>
+    <opening_date>2024-06-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0073</client_id>
+    <name>Jean Bernard</name>
+    <age>85</age>
+    <sexe>M</sexe>
+    <opening_date>2022-05-31</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0074</client_id>
+    <name>Laura Richard</name>
+    <age>38</age>
+    <sexe>F</sexe>
+    <opening_date>2024-02-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0075</client_id>
+    <name>Emma Laurent</name>
+    <age>28</age>
+    <sexe>F</sexe>
+    <opening_date>2020-08-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0076</client_id>
+    <name>Emma Martin</name>
+    <age>28</age>
+    <sexe>M</sexe>
+    <opening_date>2023-01-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0077</client_id>
+    <name>Laura Laurent</name>
+    <age>74</age>
+    <sexe>F</sexe>
+    <opening_date>2024-08-23</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0078</client_id>
+    <name>Nicolas Bernard</name>
+    <age>62</age>
+    <sexe>M</sexe>
+    <opening_date>2024-10-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0079</client_id>
+    <name>Emma Dubois</name>
+    <age>85</age>
+    <sexe>F</sexe>
+    <opening_date>2023-06-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0080</client_id>
+    <name>Thomas Laurent</name>
+    <age>25</age>
+    <sexe>M</sexe>
+    <opening_date>2020-02-01</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0081</client_id>
+    <name>Sophie Thomas</name>
+    <age>50</age>
+    <sexe>F</sexe>
+    <opening_date>2023-03-31</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0082</client_id>
+    <name>Jean Dubois</name>
+    <age>73</age>
+    <sexe>M</sexe>
+    <opening_date>2021-12-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0083</client_id>
+    <name>Nicolas Petit</name>
+    <age>82</age>
+    <sexe>F</sexe>
+    <opening_date>2023-12-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0084</client_id>
+    <name>Jean Durand</name>
+    <age>20</age>
+    <sexe>F</sexe>
+    <opening_date>2025-02-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0085</client_id>
+    <name>Emma Durand</name>
+    <age>69</age>
+    <sexe>F</sexe>
+    <opening_date>2024-09-06</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0086</client_id>
+    <name>Thomas Martin</name>
+    <age>59</age>
+    <sexe>M</sexe>
+    <opening_date>2021-12-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0087</client_id>
+    <name>Julie Bernard</name>
+    <age>73</age>
+    <sexe>F</sexe>
+    <opening_date>2021-03-09</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0088</client_id>
+    <name>Emma Durand</name>
+    <age>85</age>
+    <sexe>F</sexe>
+    <opening_date>2020-11-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0089</client_id>
+    <name>Julie Petit</name>
+    <age>60</age>
+    <sexe>F</sexe>
+    <opening_date>2021-11-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0090</client_id>
+    <name>Nicolas Moreau</name>
+    <age>42</age>
+    <sexe>M</sexe>
+    <opening_date>2023-12-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0091</client_id>
+    <name>Sophie Bernard</name>
+    <age>36</age>
+    <sexe>M</sexe>
+    <opening_date>2022-11-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0092</client_id>
+    <name>Emma Thomas</name>
+    <age>27</age>
+    <sexe>M</sexe>
+    <opening_date>2021-12-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0093</client_id>
+    <name>Laura Laurent</name>
+    <age>75</age>
+    <sexe>F</sexe>
+    <opening_date>2023-08-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0094</client_id>
+    <name>Luc Dubois</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2025-04-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0095</client_id>
+    <name>Pierre Laurent</name>
+    <age>25</age>
+    <sexe>F</sexe>
+    <opening_date>2023-12-12</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0096</client_id>
+    <name>Pierre Dubois</name>
+    <age>75</age>
+    <sexe>M</sexe>
+    <opening_date>2020-06-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0097</client_id>
+    <name>Pierre Bernard</name>
+    <age>29</age>
+    <sexe>F</sexe>
+    <opening_date>2025-09-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0098</client_id>
+    <name>Emma Moreau</name>
+    <age>23</age>
+    <sexe>F</sexe>
+    <opening_date>2025-01-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0099</client_id>
+    <name>Julie Laurent</name>
+    <age>78</age>
+    <sexe>M</sexe>
+    <opening_date>2025-08-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0100</client_id>
+    <name>Laura Bernard</name>
+    <age>61</age>
+    <sexe>M</sexe>
+    <opening_date>2020-12-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0101</client_id>
+    <name>Jean Petit</name>
+    <age>74</age>
+    <sexe>M</sexe>
+    <opening_date>2024-12-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0102</client_id>
+    <name>Julie Richard</name>
+    <age>54</age>
+    <sexe>M</sexe>
+    <opening_date>2024-05-05</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0103</client_id>
+    <name>Emma Martin</name>
+    <age>60</age>
+    <sexe>F</sexe>
+    <opening_date>2020-09-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0104</client_id>
+    <name>Nicolas Durand</name>
+    <age>54</age>
+    <sexe>M</sexe>
+    <opening_date>2022-10-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0105</client_id>
+    <name>Julie Bernard</name>
+    <age>36</age>
+    <sexe>M</sexe>
+    <opening_date>2023-12-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0106</client_id>
+    <name>Luc Laurent</name>
+    <age>28</age>
+    <sexe>F</sexe>
+    <opening_date>2023-06-22</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0107</client_id>
+    <name>Julie Thomas</name>
+    <age>85</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0108</client_id>
+    <name>Nicolas Richard</name>
+    <age>20</age>
+    <sexe>F</sexe>
+    <opening_date>2024-01-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0109</client_id>
+    <name>Sophie Richard</name>
+    <age>80</age>
+    <sexe>M</sexe>
+    <opening_date>2022-02-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0110</client_id>
+    <name>Luc Bernard</name>
+    <age>55</age>
+    <sexe>M</sexe>
+    <opening_date>2021-02-18</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0111</client_id>
+    <name>Julie Laurent</name>
+    <age>34</age>
+    <sexe>M</sexe>
+    <opening_date>2024-03-23</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0112</client_id>
+    <name>Luc Laurent</name>
+    <age>39</age>
+    <sexe>M</sexe>
+    <opening_date>2024-11-27</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0113</client_id>
+    <name>Julie Petit</name>
+    <age>74</age>
+    <sexe>F</sexe>
+    <opening_date>2023-03-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0114</client_id>
+    <name>Nicolas Petit</name>
+    <age>57</age>
+    <sexe>M</sexe>
+    <opening_date>2025-04-05</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0115</client_id>
+    <name>Emma Dubois</name>
+    <age>77</age>
+    <sexe>F</sexe>
+    <opening_date>2023-02-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0116</client_id>
+    <name>Luc Petit</name>
+    <age>35</age>
+    <sexe>F</sexe>
+    <opening_date>2022-10-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0117</client_id>
+    <name>Julie Moreau</name>
+    <age>31</age>
+    <sexe>F</sexe>
+    <opening_date>2025-10-14</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0118</client_id>
+    <name>Marie Thomas</name>
+    <age>52</age>
+    <sexe>F</sexe>
+    <opening_date>2025-01-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0119</client_id>
+    <name>Thomas Bernard</name>
+    <age>46</age>
+    <sexe>M</sexe>
+    <opening_date>2025-01-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0120</client_id>
+    <name>Thomas Martin</name>
+    <age>68</age>
+    <sexe>M</sexe>
+    <opening_date>2025-08-18</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0121</client_id>
+    <name>Thomas Bernard</name>
+    <age>65</age>
+    <sexe>M</sexe>
+    <opening_date>2022-07-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0122</client_id>
+    <name>Marie Richard</name>
+    <age>36</age>
+    <sexe>F</sexe>
+    <opening_date>2021-07-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0123</client_id>
+    <name>Laura Thomas</name>
+    <age>78</age>
+    <sexe>F</sexe>
+    <opening_date>2025-01-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0124</client_id>
+    <name>Marie Martin</name>
+    <age>50</age>
+    <sexe>M</sexe>
+    <opening_date>2022-06-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0125</client_id>
+    <name>Marie Robert</name>
+    <age>48</age>
+    <sexe>F</sexe>
+    <opening_date>2023-05-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0126</client_id>
+    <name>Sophie Durand</name>
+    <age>76</age>
+    <sexe>M</sexe>
+    <opening_date>2020-09-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0127</client_id>
+    <name>Emma Moreau</name>
+    <age>20</age>
+    <sexe>F</sexe>
+    <opening_date>2025-10-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0128</client_id>
+    <name>Luc Robert</name>
+    <age>72</age>
+    <sexe>M</sexe>
+    <opening_date>2020-01-07</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0129</client_id>
+    <name>Sophie Laurent</name>
+    <age>71</age>
+    <sexe>F</sexe>
+    <opening_date>2022-02-06</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0130</client_id>
+    <name>Marie Moreau</name>
+    <age>82</age>
+    <sexe>F</sexe>
+    <opening_date>2025-09-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0131</client_id>
+    <name>Thomas Dubois</name>
+    <age>23</age>
+    <sexe>M</sexe>
+    <opening_date>2024-05-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0132</client_id>
+    <name>Jean Richard</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2023-11-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0133</client_id>
+    <name>Emma Richard</name>
+    <age>35</age>
+    <sexe>M</sexe>
+    <opening_date>2020-06-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0134</client_id>
+    <name>Luc Dubois</name>
+    <age>79</age>
+    <sexe>F</sexe>
+    <opening_date>2022-01-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0135</client_id>
+    <name>Laura Martin</name>
+    <age>55</age>
+    <sexe>M</sexe>
+    <opening_date>2022-04-05</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0136</client_id>
+    <name>Jean Richard</name>
+    <age>57</age>
+    <sexe>M</sexe>
+    <opening_date>2025-10-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0137</client_id>
+    <name>Pierre Martin</name>
+    <age>42</age>
+    <sexe>F</sexe>
+    <opening_date>2023-03-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0138</client_id>
+    <name>Julie Robert</name>
+    <age>33</age>
+    <sexe>M</sexe>
+    <opening_date>2024-02-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0139</client_id>
+    <name>Laura Durand</name>
+    <age>61</age>
+    <sexe>F</sexe>
+    <opening_date>2022-02-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0140</client_id>
+    <name>Julie Moreau</name>
+    <age>52</age>
+    <sexe>F</sexe>
+    <opening_date>2020-12-04</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0141</client_id>
+    <name>Thomas Laurent</name>
+    <age>41</age>
+    <sexe>M</sexe>
+    <opening_date>2023-04-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0142</client_id>
+    <name>Marie Richard</name>
+    <age>55</age>
+    <sexe>M</sexe>
+    <opening_date>2023-06-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0143</client_id>
+    <name>Luc Dubois</name>
+    <age>62</age>
+    <sexe>F</sexe>
+    <opening_date>2025-01-05</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0144</client_id>
+    <name>Emma Durand</name>
+    <age>53</age>
+    <sexe>F</sexe>
+    <opening_date>2020-08-22</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0145</client_id>
+    <name>Julie Moreau</name>
+    <age>38</age>
+    <sexe>F</sexe>
+    <opening_date>2020-05-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0146</client_id>
+    <name>Jean Thomas</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2022-08-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0147</client_id>
+    <name>Julie Durand</name>
+    <age>22</age>
+    <sexe>F</sexe>
+    <opening_date>2021-09-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0148</client_id>
+    <name>Julie Dubois</name>
+    <age>27</age>
+    <sexe>F</sexe>
+    <opening_date>2021-07-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0149</client_id>
+    <name>Thomas Richard</name>
+    <age>53</age>
+    <sexe>F</sexe>
+    <opening_date>2022-10-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0150</client_id>
+    <name>Luc Dubois</name>
+    <age>84</age>
+    <sexe>M</sexe>
+    <opening_date>2024-05-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0151</client_id>
+    <name>Pierre Robert</name>
+    <age>75</age>
+    <sexe>M</sexe>
+    <opening_date>2022-05-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0152</client_id>
+    <name>Laura Petit</name>
+    <age>33</age>
+    <sexe>F</sexe>
+    <opening_date>2021-07-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0153</client_id>
+    <name>Luc Dubois</name>
+    <age>29</age>
+    <sexe>F</sexe>
+    <opening_date>2023-08-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0154</client_id>
+    <name>Nicolas Moreau</name>
+    <age>55</age>
+    <sexe>M</sexe>
+    <opening_date>2023-05-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0155</client_id>
+    <name>Julie Moreau</name>
+    <age>46</age>
+    <sexe>M</sexe>
+    <opening_date>2021-05-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0156</client_id>
+    <name>Sophie Dubois</name>
+    <age>21</age>
+    <sexe>M</sexe>
+    <opening_date>2024-01-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0157</client_id>
+    <name>Laura Moreau</name>
+    <age>34</age>
+    <sexe>F</sexe>
+    <opening_date>2020-12-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0158</client_id>
+    <name>Thomas Dubois</name>
+    <age>85</age>
+    <sexe>F</sexe>
+    <opening_date>2024-08-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0159</client_id>
+    <name>Luc Richard</name>
+    <age>27</age>
+    <sexe>M</sexe>
+    <opening_date>2025-01-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0160</client_id>
+    <name>Luc Moreau</name>
+    <age>41</age>
+    <sexe>F</sexe>
+    <opening_date>2021-06-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0161</client_id>
+    <name>Marie Moreau</name>
+    <age>37</age>
+    <sexe>M</sexe>
+    <opening_date>2023-05-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0162</client_id>
+    <name>Julie Petit</name>
+    <age>62</age>
+    <sexe>M</sexe>
+    <opening_date>2025-10-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0163</client_id>
+    <name>Pierre Petit</name>
+    <age>53</age>
+    <sexe>M</sexe>
+    <opening_date>2021-05-27</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0164</client_id>
+    <name>Emma Moreau</name>
+    <age>29</age>
+    <sexe>F</sexe>
+    <opening_date>2025-08-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0165</client_id>
+    <name>Emma Laurent</name>
+    <age>37</age>
+    <sexe>M</sexe>
+    <opening_date>2021-12-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0166</client_id>
+    <name>Emma Martin</name>
+    <age>21</age>
+    <sexe>F</sexe>
+    <opening_date>2020-11-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0167</client_id>
+    <name>Sophie Laurent</name>
+    <age>71</age>
+    <sexe>F</sexe>
+    <opening_date>2020-05-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0168</client_id>
+    <name>Pierre Dubois</name>
+    <age>49</age>
+    <sexe>F</sexe>
+    <opening_date>2024-07-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0169</client_id>
+    <name>Marie Martin</name>
+    <age>38</age>
+    <sexe>F</sexe>
+    <opening_date>2024-12-05</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0170</client_id>
+    <name>Laura Petit</name>
+    <age>61</age>
+    <sexe>F</sexe>
+    <opening_date>2021-08-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0171</client_id>
+    <name>Julie Durand</name>
+    <age>34</age>
+    <sexe>F</sexe>
+    <opening_date>2024-02-26</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0172</client_id>
+    <name>Julie Petit</name>
+    <age>77</age>
+    <sexe>M</sexe>
+    <opening_date>2021-05-16</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0173</client_id>
+    <name>Sophie Thomas</name>
+    <age>30</age>
+    <sexe>F</sexe>
+    <opening_date>2020-07-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0174</client_id>
+    <name>Emma Durand</name>
+    <age>49</age>
+    <sexe>F</sexe>
+    <opening_date>2021-10-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0175</client_id>
+    <name>Sophie Thomas</name>
+    <age>81</age>
+    <sexe>F</sexe>
+    <opening_date>2025-10-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0176</client_id>
+    <name>Pierre Dubois</name>
+    <age>20</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0177</client_id>
+    <name>Sophie Petit</name>
+    <age>63</age>
+    <sexe>F</sexe>
+    <opening_date>2020-07-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0178</client_id>
+    <name>Laura Laurent</name>
+    <age>78</age>
+    <sexe>F</sexe>
+    <opening_date>2023-03-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0179</client_id>
+    <name>Marie Durand</name>
+    <age>35</age>
+    <sexe>M</sexe>
+    <opening_date>2022-12-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0180</client_id>
+    <name>Julie Martin</name>
+    <age>69</age>
+    <sexe>F</sexe>
+    <opening_date>2020-07-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0181</client_id>
+    <name>Julie Moreau</name>
+    <age>54</age>
+    <sexe>M</sexe>
+    <opening_date>2020-10-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0182</client_id>
+    <name>Nicolas Robert</name>
+    <age>33</age>
+    <sexe>F</sexe>
+    <opening_date>2021-06-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0183</client_id>
+    <name>Julie Richard</name>
+    <age>64</age>
+    <sexe>F</sexe>
+    <opening_date>2021-08-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0184</client_id>
+    <name>Nicolas Martin</name>
+    <age>23</age>
+    <sexe>F</sexe>
+    <opening_date>2020-06-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0185</client_id>
+    <name>Laura Moreau</name>
+    <age>76</age>
+    <sexe>F</sexe>
+    <opening_date>2021-09-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0186</client_id>
+    <name>Julie Laurent</name>
+    <age>58</age>
+    <sexe>M</sexe>
+    <opening_date>2021-10-27</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0187</client_id>
+    <name>Emma Richard</name>
+    <age>82</age>
+    <sexe>F</sexe>
+    <opening_date>2025-09-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0188</client_id>
+    <name>Emma Robert</name>
+    <age>78</age>
+    <sexe>F</sexe>
+    <opening_date>2020-03-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0189</client_id>
+    <name>Marie Durand</name>
+    <age>57</age>
+    <sexe>F</sexe>
+    <opening_date>2020-04-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0190</client_id>
+    <name>Pierre Laurent</name>
+    <age>47</age>
+    <sexe>F</sexe>
+    <opening_date>2020-07-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0191</client_id>
+    <name>Luc Moreau</name>
+    <age>66</age>
+    <sexe>F</sexe>
+    <opening_date>2021-08-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0192</client_id>
+    <name>Emma Bernard</name>
+    <age>42</age>
+    <sexe>M</sexe>
+    <opening_date>2020-03-18</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0193</client_id>
+    <name>Thomas Thomas</name>
+    <age>70</age>
+    <sexe>F</sexe>
+    <opening_date>2022-04-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0194</client_id>
+    <name>Jean Thomas</name>
+    <age>84</age>
+    <sexe>F</sexe>
+    <opening_date>2022-04-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0195</client_id>
+    <name>Laura Moreau</name>
+    <age>66</age>
+    <sexe>F</sexe>
+    <opening_date>2023-07-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0196</client_id>
+    <name>Nicolas Richard</name>
+    <age>63</age>
+    <sexe>F</sexe>
+    <opening_date>2022-12-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0197</client_id>
+    <name>Sophie Petit</name>
+    <age>53</age>
+    <sexe>F</sexe>
+    <opening_date>2023-05-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0198</client_id>
+    <name>Pierre Petit</name>
+    <age>80</age>
+    <sexe>F</sexe>
+    <opening_date>2023-07-22</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0199</client_id>
+    <name>Nicolas Robert</name>
+    <age>54</age>
+    <sexe>F</sexe>
+    <opening_date>2021-05-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0200</client_id>
+    <name>Thomas Richard</name>
+    <age>36</age>
+    <sexe>F</sexe>
+    <opening_date>2023-04-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0201</client_id>
+    <name>Marie Richard</name>
+    <age>74</age>
+    <sexe>F</sexe>
+    <opening_date>2022-11-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0202</client_id>
+    <name>Sophie Moreau</name>
+    <age>52</age>
+    <sexe>M</sexe>
+    <opening_date>2023-01-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0203</client_id>
+    <name>Emma Laurent</name>
+    <age>48</age>
+    <sexe>M</sexe>
+    <opening_date>2022-09-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0204</client_id>
+    <name>Sophie Martin</name>
+    <age>30</age>
+    <sexe>M</sexe>
+    <opening_date>2024-08-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0205</client_id>
+    <name>Marie Thomas</name>
+    <age>18</age>
+    <sexe>F</sexe>
+    <opening_date>2021-10-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0206</client_id>
+    <name>Laura Petit</name>
+    <age>54</age>
+    <sexe>F</sexe>
+    <opening_date>2023-08-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0207</client_id>
+    <name>Marie Laurent</name>
+    <age>47</age>
+    <sexe>M</sexe>
+    <opening_date>2025-12-31</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0208</client_id>
+    <name>Thomas Thomas</name>
+    <age>22</age>
+    <sexe>M</sexe>
+    <opening_date>2024-06-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0209</client_id>
+    <name>Pierre Martin</name>
+    <age>19</age>
+    <sexe>M</sexe>
+    <opening_date>2023-05-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0210</client_id>
+    <name>Julie Robert</name>
+    <age>76</age>
+    <sexe>M</sexe>
+    <opening_date>2025-11-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0211</client_id>
+    <name>Nicolas Dubois</name>
+    <age>52</age>
+    <sexe>M</sexe>
+    <opening_date>2022-02-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0212</client_id>
+    <name>Luc Dubois</name>
+    <age>50</age>
+    <sexe>F</sexe>
+    <opening_date>2022-02-01</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0213</client_id>
+    <name>Pierre Laurent</name>
+    <age>42</age>
+    <sexe>F</sexe>
+    <opening_date>2021-12-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0214</client_id>
+    <name>Thomas Moreau</name>
+    <age>59</age>
+    <sexe>F</sexe>
+    <opening_date>2020-12-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0215</client_id>
+    <name>Luc Thomas</name>
+    <age>79</age>
+    <sexe>M</sexe>
+    <opening_date>2023-08-18</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0216</client_id>
+    <name>Pierre Durand</name>
+    <age>48</age>
+    <sexe>M</sexe>
+    <opening_date>2025-01-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0217</client_id>
+    <name>Pierre Laurent</name>
+    <age>19</age>
+    <sexe>F</sexe>
+    <opening_date>2022-12-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0218</client_id>
+    <name>Sophie Martin</name>
+    <age>33</age>
+    <sexe>F</sexe>
+    <opening_date>2025-03-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0219</client_id>
+    <name>Thomas Moreau</name>
+    <age>57</age>
+    <sexe>M</sexe>
+    <opening_date>2021-04-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0220</client_id>
+    <name>Julie Laurent</name>
+    <age>46</age>
+    <sexe>F</sexe>
+    <opening_date>2022-06-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0221</client_id>
+    <name>Luc Dubois</name>
+    <age>65</age>
+    <sexe>F</sexe>
+    <opening_date>2024-08-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0222</client_id>
+    <name>Nicolas Petit</name>
+    <age>49</age>
+    <sexe>F</sexe>
+    <opening_date>2020-12-01</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0223</client_id>
+    <name>Nicolas Richard</name>
+    <age>27</age>
+    <sexe>F</sexe>
+    <opening_date>2021-04-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0224</client_id>
+    <name>Emma Moreau</name>
+    <age>37</age>
+    <sexe>M</sexe>
+    <opening_date>2021-11-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0225</client_id>
+    <name>Marie Petit</name>
+    <age>80</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0226</client_id>
+    <name>Jean Dubois</name>
+    <age>34</age>
+    <sexe>F</sexe>
+    <opening_date>2025-10-03</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0227</client_id>
+    <name>Emma Martin</name>
+    <age>77</age>
+    <sexe>F</sexe>
+    <opening_date>2023-06-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0228</client_id>
+    <name>Pierre Martin</name>
+    <age>45</age>
+    <sexe>F</sexe>
+    <opening_date>2020-10-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0229</client_id>
+    <name>Julie Bernard</name>
+    <age>25</age>
+    <sexe>F</sexe>
+    <opening_date>2020-10-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0230</client_id>
+    <name>Pierre Durand</name>
+    <age>41</age>
+    <sexe>M</sexe>
+    <opening_date>2021-07-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0231</client_id>
+    <name>Julie Durand</name>
+    <age>75</age>
+    <sexe>F</sexe>
+    <opening_date>2024-03-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0232</client_id>
+    <name>Nicolas Thomas</name>
+    <age>62</age>
+    <sexe>M</sexe>
+    <opening_date>2021-04-30</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0233</client_id>
+    <name>Nicolas Thomas</name>
+    <age>46</age>
+    <sexe>F</sexe>
+    <opening_date>2020-01-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0234</client_id>
+    <name>Laura Moreau</name>
+    <age>72</age>
+    <sexe>F</sexe>
+    <opening_date>2025-12-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0235</client_id>
+    <name>Sophie Dubois</name>
+    <age>62</age>
+    <sexe>M</sexe>
+    <opening_date>2021-09-27</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0236</client_id>
+    <name>Marie Martin</name>
+    <age>71</age>
+    <sexe>M</sexe>
+    <opening_date>2020-03-05</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0237</client_id>
+    <name>Marie Bernard</name>
+    <age>22</age>
+    <sexe>M</sexe>
+    <opening_date>2025-01-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0238</client_id>
+    <name>Sophie Martin</name>
+    <age>69</age>
+    <sexe>M</sexe>
+    <opening_date>2024-12-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0239</client_id>
+    <name>Jean Thomas</name>
+    <age>82</age>
+    <sexe>M</sexe>
+    <opening_date>2023-03-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0240</client_id>
+    <name>Emma Laurent</name>
+    <age>59</age>
+    <sexe>F</sexe>
+    <opening_date>2022-08-28</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0241</client_id>
+    <name>Nicolas Petit</name>
+    <age>70</age>
+    <sexe>M</sexe>
+    <opening_date>2023-05-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0242</client_id>
+    <name>Nicolas Laurent</name>
+    <age>40</age>
+    <sexe>M</sexe>
+    <opening_date>2024-10-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0243</client_id>
+    <name>Jean Richard</name>
+    <age>66</age>
+    <sexe>F</sexe>
+    <opening_date>2025-11-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0244</client_id>
+    <name>Thomas Thomas</name>
+    <age>56</age>
+    <sexe>F</sexe>
+    <opening_date>2024-03-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0245</client_id>
+    <name>Sophie Petit</name>
+    <age>56</age>
+    <sexe>F</sexe>
+    <opening_date>2021-08-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0246</client_id>
+    <name>Nicolas Durand</name>
+    <age>71</age>
+    <sexe>M</sexe>
+    <opening_date>2025-12-10</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0247</client_id>
+    <name>Sophie Robert</name>
+    <age>44</age>
+    <sexe>F</sexe>
+    <opening_date>2023-09-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0248</client_id>
+    <name>Laura Richard</name>
+    <age>29</age>
+    <sexe>M</sexe>
+    <opening_date>2022-02-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0249</client_id>
+    <name>Thomas Laurent</name>
+    <age>23</age>
+    <sexe>F</sexe>
+    <opening_date>2020-10-25</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0250</client_id>
+    <name>Laura Petit</name>
+    <age>60</age>
+    <sexe>M</sexe>
+    <opening_date>2023-05-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0251</client_id>
+    <name>Sophie Bernard</name>
+    <age>79</age>
+    <sexe>M</sexe>
+    <opening_date>2022-09-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0252</client_id>
+    <name>Thomas Petit</name>
+    <age>59</age>
+    <sexe>M</sexe>
+    <opening_date>2023-03-05</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0253</client_id>
+    <name>Nicolas Richard</name>
+    <age>57</age>
+    <sexe>F</sexe>
+    <opening_date>2022-12-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0254</client_id>
+    <name>Laura Bernard</name>
+    <age>78</age>
+    <sexe>F</sexe>
+    <opening_date>2023-08-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0255</client_id>
+    <name>Julie Durand</name>
+    <age>23</age>
+    <sexe>F</sexe>
+    <opening_date>2022-06-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0256</client_id>
+    <name>Pierre Moreau</name>
+    <age>71</age>
+    <sexe>M</sexe>
+    <opening_date>2023-04-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0257</client_id>
+    <name>Julie Petit</name>
+    <age>66</age>
+    <sexe>M</sexe>
+    <opening_date>2022-10-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0258</client_id>
+    <name>Pierre Dubois</name>
+    <age>80</age>
+    <sexe>F</sexe>
+    <opening_date>2025-03-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0259</client_id>
+    <name>Luc Thomas</name>
+    <age>80</age>
+    <sexe>F</sexe>
+    <opening_date>2022-01-23</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0260</client_id>
+    <name>Nicolas Martin</name>
+    <age>27</age>
+    <sexe>M</sexe>
+    <opening_date>2020-07-17</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0261</client_id>
+    <name>Luc Petit</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2021-09-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0262</client_id>
+    <name>Nicolas Dubois</name>
+    <age>65</age>
+    <sexe>M</sexe>
+    <opening_date>2020-09-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0263</client_id>
+    <name>Laura Martin</name>
+    <age>18</age>
+    <sexe>F</sexe>
+    <opening_date>2025-12-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0264</client_id>
+    <name>Jean Martin</name>
+    <age>85</age>
+    <sexe>F</sexe>
+    <opening_date>2023-01-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0265</client_id>
+    <name>Jean Moreau</name>
+    <age>73</age>
+    <sexe>F</sexe>
+    <opening_date>2022-01-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0266</client_id>
+    <name>Nicolas Thomas</name>
+    <age>48</age>
+    <sexe>M</sexe>
+    <opening_date>2022-02-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0267</client_id>
+    <name>Julie Robert</name>
+    <age>68</age>
+    <sexe>F</sexe>
+    <opening_date>2020-11-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0268</client_id>
+    <name>Laura Laurent</name>
+    <age>49</age>
+    <sexe>F</sexe>
+    <opening_date>2022-07-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0269</client_id>
+    <name>Jean Bernard</name>
+    <age>69</age>
+    <sexe>M</sexe>
+    <opening_date>2024-04-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0270</client_id>
+    <name>Jean Martin</name>
+    <age>39</age>
+    <sexe>F</sexe>
+    <opening_date>2020-12-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0271</client_id>
+    <name>Julie Laurent</name>
+    <age>30</age>
+    <sexe>F</sexe>
+    <opening_date>2025-12-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0272</client_id>
+    <name>Sophie Laurent</name>
+    <age>78</age>
+    <sexe>M</sexe>
+    <opening_date>2023-01-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0273</client_id>
+    <name>Pierre Moreau</name>
+    <age>22</age>
+    <sexe>M</sexe>
+    <opening_date>2022-01-04</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0274</client_id>
+    <name>Sophie Laurent</name>
+    <age>36</age>
+    <sexe>M</sexe>
+    <opening_date>2024-06-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0275</client_id>
+    <name>Luc Laurent</name>
+    <age>48</age>
+    <sexe>F</sexe>
+    <opening_date>2024-05-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0276</client_id>
+    <name>Thomas Thomas</name>
+    <age>28</age>
+    <sexe>F</sexe>
+    <opening_date>2025-08-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0277</client_id>
+    <name>Marie Durand</name>
+    <age>47</age>
+    <sexe>M</sexe>
+    <opening_date>2020-11-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0278</client_id>
+    <name>Julie Martin</name>
+    <age>52</age>
+    <sexe>F</sexe>
+    <opening_date>2025-01-19</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0279</client_id>
+    <name>Julie Moreau</name>
+    <age>66</age>
+    <sexe>M</sexe>
+    <opening_date>2024-11-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0280</client_id>
+    <name>Marie Laurent</name>
+    <age>55</age>
+    <sexe>F</sexe>
+    <opening_date>2022-10-06</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0281</client_id>
+    <name>Pierre Thomas</name>
+    <age>66</age>
+    <sexe>M</sexe>
+    <opening_date>2021-09-23</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0282</client_id>
+    <name>Julie Bernard</name>
+    <age>29</age>
+    <sexe>F</sexe>
+    <opening_date>2020-01-22</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0283</client_id>
+    <name>Julie Robert</name>
+    <age>31</age>
+    <sexe>F</sexe>
+    <opening_date>2021-06-26</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0284</client_id>
+    <name>Thomas Dubois</name>
+    <age>83</age>
+    <sexe>M</sexe>
+    <opening_date>2024-07-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0285</client_id>
+    <name>Marie Richard</name>
+    <age>29</age>
+    <sexe>M</sexe>
+    <opening_date>2023-08-21</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0286</client_id>
+    <name>Pierre Durand</name>
+    <age>67</age>
+    <sexe>M</sexe>
+    <opening_date>2020-12-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0287</client_id>
+    <name>Emma Moreau</name>
+    <age>39</age>
+    <sexe>M</sexe>
+    <opening_date>2024-04-08</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0288</client_id>
+    <name>Pierre Robert</name>
+    <age>52</age>
+    <sexe>M</sexe>
+    <opening_date>2025-07-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0289</client_id>
+    <name>Luc Durand</name>
+    <age>53</age>
+    <sexe>M</sexe>
+    <opening_date>2024-09-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0290</client_id>
+    <name>Marie Richard</name>
+    <age>50</age>
+    <sexe>F</sexe>
+    <opening_date>2022-10-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0291</client_id>
+    <name>Emma Laurent</name>
+    <age>43</age>
+    <sexe>F</sexe>
+    <opening_date>2025-02-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0292</client_id>
+    <name>Pierre Martin</name>
+    <age>68</age>
+    <sexe>M</sexe>
+    <opening_date>2023-09-22</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0293</client_id>
+    <name>Julie Dubois</name>
+    <age>60</age>
+    <sexe>F</sexe>
+    <opening_date>2024-10-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0294</client_id>
+    <name>Pierre Richard</name>
+    <age>43</age>
+    <sexe>M</sexe>
+    <opening_date>2025-05-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0295</client_id>
+    <name>Thomas Richard</name>
+    <age>55</age>
+    <sexe>M</sexe>
+    <opening_date>2025-07-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0296</client_id>
+    <name>Julie Durand</name>
+    <age>53</age>
+    <sexe>M</sexe>
+    <opening_date>2024-05-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0297</client_id>
+    <name>Emma Petit</name>
+    <age>41</age>
+    <sexe>M</sexe>
+    <opening_date>2020-04-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0298</client_id>
+    <name>Laura Robert</name>
+    <age>26</age>
+    <sexe>M</sexe>
+    <opening_date>2024-08-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0299</client_id>
+    <name>Pierre Petit</name>
+    <age>50</age>
+    <sexe>M</sexe>
+    <opening_date>2021-09-23</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0300</client_id>
+    <name>Marie Dubois</name>
+    <age>79</age>
+    <sexe>F</sexe>
+    <opening_date>2024-06-29</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0301</client_id>
+    <name>Nicolas Martin</name>
+    <age>64</age>
+    <sexe>F</sexe>
+    <opening_date>2020-12-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0302</client_id>
+    <name>Julie Thomas</name>
+    <age>23</age>
+    <sexe>M</sexe>
+    <opening_date>2024-06-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0303</client_id>
+    <name>Marie Martin</name>
+    <age>30</age>
+    <sexe>F</sexe>
+    <opening_date>2022-11-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0304</client_id>
+    <name>Laura Richard</name>
+    <age>68</age>
+    <sexe>M</sexe>
+    <opening_date>2025-03-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0305</client_id>
+    <name>Julie Martin</name>
+    <age>79</age>
+    <sexe>M</sexe>
+    <opening_date>2021-03-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0306</client_id>
+    <name>Marie Bernard</name>
+    <age>36</age>
+    <sexe>F</sexe>
+    <opening_date>2023-11-27</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0307</client_id>
+    <name>Laura Petit</name>
+    <age>84</age>
+    <sexe>F</sexe>
+    <opening_date>2025-06-01</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0308</client_id>
+    <name>Marie Dubois</name>
+    <age>75</age>
+    <sexe>F</sexe>
+    <opening_date>2023-07-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0309</client_id>
+    <name>Jean Bernard</name>
+    <age>20</age>
+    <sexe>F</sexe>
+    <opening_date>2023-11-06</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0310</client_id>
+    <name>Luc Petit</name>
+    <age>84</age>
+    <sexe>M</sexe>
+    <opening_date>2021-12-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0311</client_id>
+    <name>Julie Moreau</name>
+    <age>72</age>
+    <sexe>M</sexe>
+    <opening_date>2025-03-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0312</client_id>
+    <name>Luc Thomas</name>
+    <age>73</age>
+    <sexe>F</sexe>
+    <opening_date>2024-06-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0313</client_id>
+    <name>Laura Laurent</name>
+    <age>72</age>
+    <sexe>M</sexe>
+    <opening_date>2024-05-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0314</client_id>
+    <name>Sophie Robert</name>
+    <age>26</age>
+    <sexe>M</sexe>
+    <opening_date>2021-02-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0315</client_id>
+    <name>Julie Richard</name>
+    <age>43</age>
+    <sexe>M</sexe>
+    <opening_date>2025-02-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0316</client_id>
+    <name>Laura Moreau</name>
+    <age>58</age>
+    <sexe>F</sexe>
+    <opening_date>2024-05-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0317</client_id>
+    <name>Emma Bernard</name>
+    <age>62</age>
+    <sexe>F</sexe>
+    <opening_date>2023-12-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0318</client_id>
+    <name>Pierre Laurent</name>
+    <age>28</age>
+    <sexe>M</sexe>
+    <opening_date>2021-07-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0319</client_id>
+    <name>Sophie Robert</name>
+    <age>32</age>
+    <sexe>M</sexe>
+    <opening_date>2022-01-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0320</client_id>
+    <name>Nicolas Durand</name>
+    <age>71</age>
+    <sexe>M</sexe>
+    <opening_date>2021-07-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0321</client_id>
+    <name>Thomas Thomas</name>
+    <age>80</age>
+    <sexe>F</sexe>
+    <opening_date>2021-12-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0322</client_id>
+    <name>Laura Robert</name>
+    <age>35</age>
+    <sexe>M</sexe>
+    <opening_date>2022-02-05</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0323</client_id>
+    <name>Emma Martin</name>
+    <age>63</age>
+    <sexe>F</sexe>
+    <opening_date>2020-02-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0324</client_id>
+    <name>Sophie Durand</name>
+    <age>82</age>
+    <sexe>M</sexe>
+    <opening_date>2025-07-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0325</client_id>
+    <name>Thomas Dubois</name>
+    <age>80</age>
+    <sexe>F</sexe>
+    <opening_date>2021-11-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0326</client_id>
+    <name>Sophie Robert</name>
+    <age>22</age>
+    <sexe>M</sexe>
+    <opening_date>2023-01-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0327</client_id>
+    <name>Luc Dubois</name>
+    <age>81</age>
+    <sexe>F</sexe>
+    <opening_date>2025-09-23</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0328</client_id>
+    <name>Pierre Moreau</name>
+    <age>64</age>
+    <sexe>M</sexe>
+    <opening_date>2020-06-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0329</client_id>
+    <name>Thomas Bernard</name>
+    <age>49</age>
+    <sexe>M</sexe>
+    <opening_date>2023-05-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0330</client_id>
+    <name>Pierre Richard</name>
+    <age>29</age>
+    <sexe>F</sexe>
+    <opening_date>2024-12-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0331</client_id>
+    <name>Sophie Laurent</name>
+    <age>62</age>
+    <sexe>M</sexe>
+    <opening_date>2024-10-19</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0332</client_id>
+    <name>Sophie Petit</name>
+    <age>25</age>
+    <sexe>M</sexe>
+    <opening_date>2023-12-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0333</client_id>
+    <name>Emma Moreau</name>
+    <age>39</age>
+    <sexe>F</sexe>
+    <opening_date>2023-08-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0334</client_id>
+    <name>Emma Robert</name>
+    <age>83</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-25</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0335</client_id>
+    <name>Jean Robert</name>
+    <age>34</age>
+    <sexe>F</sexe>
+    <opening_date>2021-06-27</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0336</client_id>
+    <name>Julie Petit</name>
+    <age>68</age>
+    <sexe>M</sexe>
+    <opening_date>2025-06-27</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0337</client_id>
+    <name>Thomas Durand</name>
+    <age>75</age>
+    <sexe>F</sexe>
+    <opening_date>2020-11-05</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0338</client_id>
+    <name>Thomas Moreau</name>
+    <age>53</age>
+    <sexe>M</sexe>
+    <opening_date>2024-02-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0339</client_id>
+    <name>Julie Laurent</name>
+    <age>18</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0340</client_id>
+    <name>Marie Moreau</name>
+    <age>68</age>
+    <sexe>F</sexe>
+    <opening_date>2022-06-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0341</client_id>
+    <name>Laura Robert</name>
+    <age>59</age>
+    <sexe>M</sexe>
+    <opening_date>2023-03-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0342</client_id>
+    <name>Emma Dubois</name>
+    <age>61</age>
+    <sexe>M</sexe>
+    <opening_date>2020-07-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0343</client_id>
+    <name>Laura Martin</name>
+    <age>33</age>
+    <sexe>M</sexe>
+    <opening_date>2021-10-09</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0344</client_id>
+    <name>Jean Durand</name>
+    <age>43</age>
+    <sexe>F</sexe>
+    <opening_date>2021-06-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0345</client_id>
+    <name>Luc Robert</name>
+    <age>29</age>
+    <sexe>F</sexe>
+    <opening_date>2024-01-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0346</client_id>
+    <name>Julie Thomas</name>
+    <age>24</age>
+    <sexe>M</sexe>
+    <opening_date>2024-06-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0347</client_id>
+    <name>Sophie Durand</name>
+    <age>29</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0348</client_id>
+    <name>Laura Bernard</name>
+    <age>34</age>
+    <sexe>M</sexe>
+    <opening_date>2022-07-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0349</client_id>
+    <name>Jean Martin</name>
+    <age>61</age>
+    <sexe>F</sexe>
+    <opening_date>2021-05-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0350</client_id>
+    <name>Laura Bernard</name>
+    <age>47</age>
+    <sexe>M</sexe>
+    <opening_date>2024-04-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0351</client_id>
+    <name>Marie Richard</name>
+    <age>65</age>
+    <sexe>M</sexe>
+    <opening_date>2023-05-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0352</client_id>
+    <name>Luc Thomas</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2025-12-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0353</client_id>
+    <name>Emma Thomas</name>
+    <age>74</age>
+    <sexe>M</sexe>
+    <opening_date>2023-12-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0354</client_id>
+    <name>Thomas Laurent</name>
+    <age>74</age>
+    <sexe>M</sexe>
+    <opening_date>2022-06-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0355</client_id>
+    <name>Luc Bernard</name>
+    <age>67</age>
+    <sexe>M</sexe>
+    <opening_date>2023-12-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0356</client_id>
+    <name>Luc Petit</name>
+    <age>53</age>
+    <sexe>F</sexe>
+    <opening_date>2020-12-11</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0357</client_id>
+    <name>Jean Robert</name>
+    <age>44</age>
+    <sexe>F</sexe>
+    <opening_date>2025-10-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0358</client_id>
+    <name>Thomas Robert</name>
+    <age>24</age>
+    <sexe>M</sexe>
+    <opening_date>2022-09-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0359</client_id>
+    <name>Marie Petit</name>
+    <age>81</age>
+    <sexe>F</sexe>
+    <opening_date>2020-10-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0360</client_id>
+    <name>Julie Richard</name>
+    <age>34</age>
+    <sexe>M</sexe>
+    <opening_date>2024-05-03</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0361</client_id>
+    <name>Julie Moreau</name>
+    <age>40</age>
+    <sexe>F</sexe>
+    <opening_date>2025-04-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0362</client_id>
+    <name>Emma Bernard</name>
+    <age>19</age>
+    <sexe>M</sexe>
+    <opening_date>2022-12-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0363</client_id>
+    <name>Jean Durand</name>
+    <age>82</age>
+    <sexe>M</sexe>
+    <opening_date>2023-03-19</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0364</client_id>
+    <name>Thomas Durand</name>
+    <age>28</age>
+    <sexe>F</sexe>
+    <opening_date>2021-09-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0365</client_id>
+    <name>Pierre Bernard</name>
+    <age>83</age>
+    <sexe>M</sexe>
+    <opening_date>2022-04-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0366</client_id>
+    <name>Thomas Laurent</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2023-06-24</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0367</client_id>
+    <name>Jean Petit</name>
+    <age>29</age>
+    <sexe>M</sexe>
+    <opening_date>2024-11-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0368</client_id>
+    <name>Emma Laurent</name>
+    <age>25</age>
+    <sexe>F</sexe>
+    <opening_date>2023-06-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0369</client_id>
+    <name>Marie Martin</name>
+    <age>35</age>
+    <sexe>M</sexe>
+    <opening_date>2020-02-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0370</client_id>
+    <name>Julie Moreau</name>
+    <age>84</age>
+    <sexe>F</sexe>
+    <opening_date>2022-11-27</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0371</client_id>
+    <name>Luc Robert</name>
+    <age>33</age>
+    <sexe>F</sexe>
+    <opening_date>2020-04-30</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0372</client_id>
+    <name>Pierre Moreau</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2022-12-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0373</client_id>
+    <name>Laura Dubois</name>
+    <age>83</age>
+    <sexe>M</sexe>
+    <opening_date>2024-01-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0374</client_id>
+    <name>Emma Thomas</name>
+    <age>65</age>
+    <sexe>F</sexe>
+    <opening_date>2021-10-06</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0375</client_id>
+    <name>Emma Bernard</name>
+    <age>47</age>
+    <sexe>M</sexe>
+    <opening_date>2025-09-15</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0376</client_id>
+    <name>Jean Petit</name>
+    <age>23</age>
+    <sexe>M</sexe>
+    <opening_date>2025-04-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0377</client_id>
+    <name>Luc Thomas</name>
+    <age>22</age>
+    <sexe>F</sexe>
+    <opening_date>2024-09-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0378</client_id>
+    <name>Sophie Durand</name>
+    <age>58</age>
+    <sexe>F</sexe>
+    <opening_date>2023-01-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0379</client_id>
+    <name>Marie Moreau</name>
+    <age>24</age>
+    <sexe>F</sexe>
+    <opening_date>2022-01-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0380</client_id>
+    <name>Thomas Bernard</name>
+    <age>77</age>
+    <sexe>M</sexe>
+    <opening_date>2023-03-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0381</client_id>
+    <name>Marie Moreau</name>
+    <age>76</age>
+    <sexe>F</sexe>
+    <opening_date>2020-02-02</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0382</client_id>
+    <name>Pierre Laurent</name>
+    <age>56</age>
+    <sexe>M</sexe>
+    <opening_date>2022-09-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0383</client_id>
+    <name>Emma Dubois</name>
+    <age>43</age>
+    <sexe>F</sexe>
+    <opening_date>2022-10-01</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0384</client_id>
+    <name>Thomas Martin</name>
+    <age>47</age>
+    <sexe>M</sexe>
+    <opening_date>2023-11-19</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0385</client_id>
+    <name>Julie Martin</name>
+    <age>66</age>
+    <sexe>M</sexe>
+    <opening_date>2023-06-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0386</client_id>
+    <name>Nicolas Petit</name>
+    <age>71</age>
+    <sexe>M</sexe>
+    <opening_date>2025-07-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0387</client_id>
+    <name>Pierre Bernard</name>
+    <age>23</age>
+    <sexe>M</sexe>
+    <opening_date>2022-08-06</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0388</client_id>
+    <name>Julie Dubois</name>
+    <age>28</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0389</client_id>
+    <name>Thomas Bernard</name>
+    <age>25</age>
+    <sexe>M</sexe>
+    <opening_date>2024-11-16</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0390</client_id>
+    <name>Pierre Robert</name>
+    <age>58</age>
+    <sexe>M</sexe>
+    <opening_date>2024-05-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0391</client_id>
+    <name>Laura Robert</name>
+    <age>47</age>
+    <sexe>F</sexe>
+    <opening_date>2020-11-01</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0392</client_id>
+    <name>Emma Bernard</name>
+    <age>37</age>
+    <sexe>M</sexe>
+    <opening_date>2021-03-08</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0393</client_id>
+    <name>Laura Richard</name>
+    <age>70</age>
+    <sexe>F</sexe>
+    <opening_date>2021-05-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0394</client_id>
+    <name>Sophie Dubois</name>
+    <age>57</age>
+    <sexe>F</sexe>
+    <opening_date>2025-03-12</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0395</client_id>
+    <name>Marie Thomas</name>
+    <age>56</age>
+    <sexe>M</sexe>
+    <opening_date>2020-06-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0396</client_id>
+    <name>Luc Bernard</name>
+    <age>49</age>
+    <sexe>F</sexe>
+    <opening_date>2023-12-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0397</client_id>
+    <name>Pierre Robert</name>
+    <age>40</age>
+    <sexe>M</sexe>
+    <opening_date>2020-05-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0398</client_id>
+    <name>Nicolas Moreau</name>
+    <age>49</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-22</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0399</client_id>
+    <name>Luc Bernard</name>
+    <age>19</age>
+    <sexe>M</sexe>
+    <opening_date>2020-09-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0400</client_id>
+    <name>Sophie Durand</name>
+    <age>65</age>
+    <sexe>M</sexe>
+    <opening_date>2020-12-10</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0401</client_id>
+    <name>Marie Martin</name>
+    <age>26</age>
+    <sexe>F</sexe>
+    <opening_date>2022-03-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0402</client_id>
+    <name>Luc Bernard</name>
+    <age>60</age>
+    <sexe>F</sexe>
+    <opening_date>2021-05-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0403</client_id>
+    <name>Jean Thomas</name>
+    <age>73</age>
+    <sexe>F</sexe>
+    <opening_date>2024-06-05</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0404</client_id>
+    <name>Thomas Durand</name>
+    <age>40</age>
+    <sexe>M</sexe>
+    <opening_date>2023-12-20</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0405</client_id>
+    <name>Pierre Robert</name>
+    <age>75</age>
+    <sexe>M</sexe>
+    <opening_date>2021-08-31</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0406</client_id>
+    <name>Pierre Dubois</name>
+    <age>70</age>
+    <sexe>M</sexe>
+    <opening_date>2025-05-16</opening_date>
+    <status>inactive</status>
+  </Client>
+  <Client>
+    <client_id>CLI0407</client_id>
+    <name>Pierre Durand</name>
+    <age>35</age>
+    <sexe>M</sexe>
+    <opening_date>2024-09-13</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0408</client_id>
+    <name>Nicolas Martin</name>
+    <age>66</age>
+    <sexe>M</sexe>
+    <opening_date>2024-01-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0409</client_id>
+    <name>Julie Laurent</name>
+    <age>82</age>
+    <sexe>F</sexe>
+    <opening_date>2023-08-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0410</client_id>
+    <name>Luc Martin</name>
+    <age>58</age>
+    <sexe>F</sexe>
+    <opening_date>2022-06-16</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0411</client_id>
+    <name>Jean Dubois</name>
+    <age>85</age>
+    <sexe>F</sexe>
+    <opening_date>2024-01-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0412</client_id>
+    <name>Luc Bernard</name>
+    <age>49</age>
+    <sexe>M</sexe>
+    <opening_date>2022-09-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0413</client_id>
+    <name>Sophie Laurent</name>
+    <age>67</age>
+    <sexe>M</sexe>
+    <opening_date>2023-12-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0414</client_id>
+    <name>Sophie Laurent</name>
+    <age>58</age>
+    <sexe>M</sexe>
+    <opening_date>2024-01-09</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0415</client_id>
+    <name>Julie Laurent</name>
+    <age>36</age>
+    <sexe>M</sexe>
+    <opening_date>2022-02-10</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0416</client_id>
+    <name>Luc Dubois</name>
+    <age>22</age>
+    <sexe>F</sexe>
+    <opening_date>2021-01-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0417</client_id>
+    <name>Emma Petit</name>
+    <age>20</age>
+    <sexe>M</sexe>
+    <opening_date>2025-11-26</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0418</client_id>
+    <name>Julie Laurent</name>
+    <age>43</age>
+    <sexe>M</sexe>
+    <opening_date>2021-06-18</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0419</client_id>
+    <name>Julie Martin</name>
+    <age>20</age>
+    <sexe>M</sexe>
+    <opening_date>2021-08-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0420</client_id>
+    <name>Marie Moreau</name>
+    <age>64</age>
+    <sexe>M</sexe>
+    <opening_date>2020-10-24</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0421</client_id>
+    <name>Emma Bernard</name>
+    <age>61</age>
+    <sexe>F</sexe>
+    <opening_date>2023-05-21</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0422</client_id>
+    <name>Luc Durand</name>
+    <age>80</age>
+    <sexe>M</sexe>
+    <opening_date>2023-07-23</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0423</client_id>
+    <name>Sophie Laurent</name>
+    <age>40</age>
+    <sexe>F</sexe>
+    <opening_date>2024-03-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0424</client_id>
+    <name>Luc Thomas</name>
+    <age>18</age>
+    <sexe>F</sexe>
+    <opening_date>2024-05-22</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0425</client_id>
+    <name>Luc Laurent</name>
+    <age>58</age>
+    <sexe>M</sexe>
+    <opening_date>2022-06-23</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0426</client_id>
+    <name>Laura Thomas</name>
+    <age>60</age>
+    <sexe>M</sexe>
+    <opening_date>2020-11-14</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0427</client_id>
+    <name>Julie Thomas</name>
+    <age>29</age>
+    <sexe>F</sexe>
+    <opening_date>2023-10-07</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0428</client_id>
+    <name>Pierre Petit</name>
+    <age>49</age>
+    <sexe>M</sexe>
+    <opening_date>2020-10-04</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0429</client_id>
+    <name>Marie Martin</name>
+    <age>24</age>
+    <sexe>F</sexe>
+    <opening_date>2024-04-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0430</client_id>
+    <name>Luc Durand</name>
+    <age>81</age>
+    <sexe>F</sexe>
+    <opening_date>2024-03-31</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0431</client_id>
+    <name>Marie Dubois</name>
+    <age>46</age>
+    <sexe>F</sexe>
+    <opening_date>2021-10-28</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0432</client_id>
+    <name>Jean Robert</name>
+    <age>20</age>
+    <sexe>M</sexe>
+    <opening_date>2023-07-29</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0433</client_id>
+    <name>Marie Richard</name>
+    <age>39</age>
+    <sexe>M</sexe>
+    <opening_date>2024-03-17</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0434</client_id>
+    <name>Nicolas Bernard</name>
+    <age>61</age>
+    <sexe>M</sexe>
+    <opening_date>2025-05-31</opening_date>
+    <status>active</status>
+  </Client>
+  <Client>
+    <client_id>CLI0435</client_id>
+    <name>Luc Laurent</name>
+    <age>73</age>
+    <sexe>F</sexe>
+    <opening_date>2021-10-05</opening_date>
+    <status>active</status>
+  </Client>
+</Clients>

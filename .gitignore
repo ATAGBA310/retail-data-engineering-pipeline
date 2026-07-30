@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Environnement et secrets
+.env
+*.pem
+*.key
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# Power BI temporaires
+*.pbix.tmp
