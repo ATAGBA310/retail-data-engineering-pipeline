@@ -1,0 +1,30 @@
+﻿date_execution,controle,categorie,nombre_anomalies,statut,criticite,commentaire
+2026-07-31 08:54:34,Valeurs manquantes dans CLIENT,Complétude,0,CONFORME,Bloquante,Les colonnes obligatoires doivent être renseignées.
+2026-07-31 08:54:34,Valeurs manquantes dans PRODUIT,Complétude,0,CONFORME,Bloquante,Les colonnes obligatoires doivent être renseignées.
+2026-07-31 08:54:34,Valeurs manquantes dans PANIER,Complétude,0,CONFORME,Bloquante,Les colonnes obligatoires doivent être renseignées.
+2026-07-31 08:54:34,Valeurs manquantes dans LIGNE_PANIER,Complétude,0,CONFORME,Bloquante,Les colonnes obligatoires doivent être renseignées.
+2026-07-31 08:54:34,Doublons complets dans CLIENT,Unicité,0,CONFORME,Bloquante,Une ligne complète ne doit pas être répétée.
+2026-07-31 08:54:34,Doublons complets dans PRODUIT,Unicité,0,CONFORME,Bloquante,Une ligne complète ne doit pas être répétée.
+2026-07-31 08:54:34,Doublons complets dans PANIER,Unicité,0,CONFORME,Bloquante,Une ligne complète ne doit pas être répétée.
+2026-07-31 08:54:34,Doublons complets dans LIGNE_PANIER,Unicité,0,CONFORME,Bloquante,Une ligne complète ne doit pas être répétée.
+2026-07-31 08:54:34,Unicité de client_id,Clé primaire,0,CONFORME,Bloquante,client_id doit être unique et renseigné.
+2026-07-31 08:54:34,Unicité de product_id,Clé primaire,0,CONFORME,Bloquante,product_id doit être unique et renseigné.
+2026-07-31 08:54:34,Unicité de cart_id,Clé primaire,0,CONFORME,Bloquante,cart_id doit être unique et renseigné.
+2026-07-31 08:54:34,Unicité de trsx_id,Clé primaire,0,CONFORME,Bloquante,trsx_id doit être unique et renseigné.
+2026-07-31 08:54:34,PANIER vers CLIENT,Intégrité référentielle,0,CONFORME,Bloquante,Chaque panier doit référencer un client existant.
+2026-07-31 08:54:34,LIGNE_PANIER vers PANIER,Intégrité référentielle,0,CONFORME,Bloquante,Chaque ligne doit référencer un panier existant.
+2026-07-31 08:54:34,LIGNE_PANIER vers PRODUIT,Intégrité référentielle,0,CONFORME,Bloquante,Chaque ligne doit référencer un produit existant.
+2026-07-31 08:54:34,Un seul client par panier,Cohérence métier,0,CONFORME,Bloquante,Un panier ne peut appartenir qu'à un seul client.
+2026-07-31 08:54:34,Une seule date par panier,Cohérence métier,0,CONFORME,Bloquante,Un panier ne peut avoir qu'une seule date.
+2026-07-31 08:54:34,Quantités strictement positives,Validité métier,0,CONFORME,Bloquante,La quantité doit être strictement positive.
+2026-07-31 08:54:34,Prix unitaires valides,Validité métier,0,CONFORME,Bloquante,Le prix doit être positif ou nul.
+2026-07-31 08:54:34,Calcul de products_price,Exactitude,0,CONFORME,Bloquante,products_price doit être égal à amount multiplié par price.
+2026-07-31 08:54:34,Un seul cart_price par panier,Cohérence métier,0,CONFORME,Bloquante,Un panier ne doit posséder qu'un seul total déclaré.
+2026-07-31 08:54:34,Calcul du total du panier,Exactitude,0,CONFORME,Bloquante,cart_price doit correspondre à la somme des products_price.
+2026-07-31 08:54:34,Validité des devises produit,Homogénéisation,0,CONFORME,Bloquante,Les devises autorisées sont EUR et USD.
+2026-07-31 08:54:34,Validité des sources produit,Homogénéisation,0,CONFORME,Bloquante,Les sources autorisées sont INTERNE et EXTERNE.
+2026-07-31 08:54:34,Cohérence source-devise,Homogénéisation,0,CONFORME,Bloquante,Les produits internes doivent être en EUR et les produits externes en USD.
+2026-07-31 08:54:34,Validité des prix catalogue,Validité métier,0,CONFORME,Bloquante,Le prix d'origine d'un produit doit être renseigné et strictement positif.
+2026-07-31 08:54:34,Écart entre prix transactionnel et catalogue interne EUR,Cohérence tarifaire,0,CONFORME,Avertissement,"Le contrôle porte uniquement sur les produits internes dont le prix catalogue est en EUR. Les produits externes en USD sont exclus, car aucun taux de conversion n'est fourni. Un écart peut correspondre à une remise ou à un prix historique."
+2026-07-31 08:54:34,Transaction antérieure à price_date,Cohérence temporelle,9653,AVERTISSEMENT,Avertissement,"Le catalogue ne contenant pas d'historique tarifaire, le prix transactionnel est conservé."
+2026-07-31 08:54:34,Répétition du couple cart_id-product_id,Information,0,CONFORME,Information,67 couples répétés et 134 lignes concernées. Les trsx_id sont distincts : ces lignes ne sont pas considérées comme des doublons.

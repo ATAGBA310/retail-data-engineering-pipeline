@@ -1,6 +1,7 @@
 from pathlib import Path
 import sqlite3
 import xml.etree.ElementTree as ET
+from datetime import datetime
 
 import numpy as np
 import pandas as pd
@@ -1055,7 +1056,7 @@ def generer_rapport(
     reports_dir
 ):
     """
-    Exporte le rapport qualité au format CSV.
+    Exporte le rapport qualité au format CSV avec un nom horodaté.
 
     Paramètres
     ----------
@@ -1072,8 +1073,13 @@ def generer_rapport(
 
     reports_dir.mkdir(parents=True, exist_ok=True)
 
+    # Date et heure de génération du rapport
+    horodatage = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+    # Création d'un nom unique pour éviter d'écraser les anciens rapports
     chemin_rapport = (
-        reports_dir / "rapport_qualite.csv"
+        reports_dir
+        / f"rapport_qualite_{horodatage}.csv"
     )
 
     rapport_qualite_df.to_csv(
@@ -1088,8 +1094,6 @@ def generer_rapport(
     )
 
     return chemin_rapport
-
-
 # ============================================================
 # BASE DE DONNÉES RELATIONNELLE
 # ============================================================
