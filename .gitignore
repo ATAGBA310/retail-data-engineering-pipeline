@@ -17,3 +17,5 @@ Thumbs.db
 
 # Power BI temporaires
 *.pbix.tmp
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
